@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Gambhir</h1>
 <h3 align="center">A passionate about IOT from India</h3>
-<img align="left" src="https://www.freepik.com/free-vector/man-working-using-laptop-flat-design_26213538.htm#query=guy%20on%20pc%20illustration&position=9&from_view=search&track=ais">
+
+<img src="h42r_6u8u_220303.jpg">
+
 - 🔭 I’m currently working on **Joint Rehabilitation Project**
 
 - 👯 I’m looking to collaborate on **integrating IOT with Machine Learning**
