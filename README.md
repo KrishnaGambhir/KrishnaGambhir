@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Gambhir</h1>
 <h3 align="center">A passionate about IOT from India</h3>
 
-<img src="h42r_6u8u_220303.jpg">
+<!-- <img src="h42r_6u8u_220303.jpg"> -->
 
 - 🔭 I’m currently working on **Joint Rehabilitation Project**
 
